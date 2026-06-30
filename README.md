@@ -2,7 +2,7 @@
 
 Bu proje; planlanan bütçe hedefleri ile yıl içinde gerçekleşen harcamalar arasındaki farkları (**Sapma Analizi / Variance Analysis**) dinamik bir şekilde izlemek, analiz etmek ve raporlamak amacıyla geliştirilmiş interaktif bir Excel modelidir. 
 
-
+![Portfolio Dashboard](Budget_vs_Actual_Dashboard.png)
 ---
 
 ## 🚀 Projenin Öne Çıkan Özellikleri & Teknik Yapısı
